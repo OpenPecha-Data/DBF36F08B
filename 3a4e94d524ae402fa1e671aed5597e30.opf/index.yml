@@ -1,0 +1,11 @@
+id: 9cabba971fcd464dbedf1571f4492e51
+annotation_type: index
+revision: '00001'
+annotations:
+  a900a88349fb42a69a597e2d62ad20ea:
+    parts: {}
+    span:
+    - vol: 58
+      start: 0
+      end: 133055
+    work_id: D3855
